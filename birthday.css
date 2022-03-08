@@ -28,19 +28,19 @@
   
   ul li span {
     display: block;
-    font-size: 50px;
+    font-size: 70px;
     padding-top: 5px;
     color: rgb(226, 206, 28);
     font-weight: 600;
   }
   
   ul li span:nth-child(2) {
-    font-size: 20px;
+    font-size: 40px;
   }
   
   .greet {
     color: rgb(211, 211, 211);
-    font-size: 25px;
+    font-size: 40px;
     text-align: center;
     font-family: sans-serif;
     margin-top: 30px;
